@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/calanderr/static/css/main.a516cd9f.css",
+    "main.js": "/calanderr/static/js/main.115c3c4c.js",
+    "index.html": "/calanderr/index.html",
+    "main.a516cd9f.css.map": "/calanderr/static/css/main.a516cd9f.css.map",
+    "main.115c3c4c.js.map": "/calanderr/static/js/main.115c3c4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a516cd9f.css",
+    "static/js/main.115c3c4c.js"
+  ]
+}
